@@ -1,5 +1,12 @@
 Play Club Pogo Games – Full Guide via pogo.com/games
 =====================================================
+.. raw:: html
+
+    <a class="reference external image-reference" href="#">
+        <img alt="" class="align-center" src="_images/get_started_button.png" style="width: 350px; height: 100px;" />
+    </a>
+	
+
 Introduction
 ------------
 If you're a fan of fun, casual, and highly addictive online games, you’ve likely heard of Club Pogo. Whether you're new or returning to the platform, the best place to explore all available titles is right here:  
